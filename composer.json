@@ -1,5 +1,5 @@
 {
-    "name": "fnvi/tools",
+    "name": "fnvi/ui",
     "description": "Description of project Tools.",
     "authors": [
         {
@@ -9,7 +9,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "FNVi\\Tools\\": "src"
+            "FNVi\\UI\\": "src"
         }
     }
 }

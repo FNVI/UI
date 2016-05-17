@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace FNVi\Tools;
+namespace FNVi\UI;
 
 /**
  * Description of List
